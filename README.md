@@ -36,11 +36,9 @@ Die Logos liegen in verschiedenen Dateiformaten vor, um eine breite Anwendung zu
 
 ## Stadtbezirke
 
-Eine Übersicht über die Stadtbezirke finden Sie in der Datei `Stadtbezirke_locker.png`.
+Eine Übersicht über die Stadtbezirke:
 
-## Mitwirkende
-
-Beiträge sind willkommen. Bitte beachten Sie die Richtlinien in der `CONTRIBUTING.md` Datei.
+![Übersicht der Stadtbezirke](Stadtbezirke_locker.png)
 
 ## Lizenz
 
