@@ -9,7 +9,7 @@ Weitere Informationen zum Stadtbezirksbudget finden Sie auf der Webseite der Sta
 
 ## Installation
 
-Es ist keine Installation erforderlich. Die Logos können direkt aus dem `Logos` Verzeichnis heruntergeladen werden.
+Es ist keine Installation erforderlich. Die Logos können direkt aus dem `Logos` Verzeichnis (Code --> Logos) heruntergeladen werden.
 
 ## Nutzung
 
