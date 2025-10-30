@@ -5,7 +5,7 @@ Dieses Repository enthält die offiziellen Logos des Leipziger Stadtbezirksbudge
 ## Beschreibung
 
 Weitere Informationen zum Stadtbezirksbudget finden Sie auf der Webseite der Stadt Leipzig: [www.leipzig.de/stadtbezirksbudget](https://www.leipzig.de/stadtbezirksbudget).
-![Übersicht der Stadtbezirke](CityCirclesWithMap-4-Stadtbezirke.png) 
+<img src="CityCirclesWithMap-4-Stadtbezirke.png" alt="Übersicht der Stadtbezirke" width="25%">
 
 ## Installation
 
