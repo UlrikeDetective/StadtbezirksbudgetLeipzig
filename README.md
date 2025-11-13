@@ -45,4 +45,4 @@ stadtbezirksbudget@leipzig.de
 
 ## Lizenz
 
-Die Logos sind unter der in der `LICENSE` Datei angegebenen Lizenz verfügbar.
+Die Logos sind unter der Lizenz "Datenlizenz Deutschland Namensnennung 2.0" verwendbar.
