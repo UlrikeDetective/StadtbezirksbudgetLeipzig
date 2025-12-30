@@ -32,6 +32,20 @@ creds.js
 
 # Mac/OSX
 .DS_Store
+Thumbs.db
+
+# Local development & testing
+instance/
+.pytest_cache/
+.coverage      # Test coverage reports
+htmlcov/
+
+# Python backend for club management
+__pycache__/
+*.py[cod]      # Python compiled files
+*$py.class
+*.so
+.Python
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
