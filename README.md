@@ -1,6 +1,6 @@
 # Stadtbezirksbudget Logos
 
-Dieses Repository enthält die offiziellen Logos des Leipziger Stadtbezirksbudgets.
+Dieses Repository enthält dad offizielle Loga der Stadt Leipzig und die dazu gehörigen Textbausteine.
 
 ## Beschreibung
 
@@ -9,29 +9,20 @@ Weitere Informationen zum Stadtbezirksbudget finden Sie auf der Webseite der Sta
 
 ## Installation
 
-Es ist keine Installation erforderlich. Die Logos können direkt aus dem `Logos` Verzeichnis (Code --> Logos) heruntergeladen werden.
+Es ist keine Installation erforderlich. Das Logo der Stadt Leipzig können Sie direkt im Markenportal der Stadt Leipzig heruntergeladen werden [https://markenportal.leipzig.de/].
 
 ## Nutzung
 
 ### Verwendung der Logos
 
-Bitte verwenden Sie das Logo des Stadtbezirksbudgets in allen Veröffentlichungen zu Ihrem Projekt, um auf die Förderung aufmerksam zu machen. Die Logos für die einzelnen Stadtbezirke sowie das allgemeine Logo finden Sie im `Logos` Verzeichnis.
+Bitte verwenden Sie das Logo der Stadt Leipzig in allen Veröffentlichungen zu Ihrem Projekt, um auf die Förderung aufmerksam zu machen. Die Logos für die einzelnen Stadtbezirke sowie das allgemeine Logo finden Sie im `Logos` Verzeichnis.
 
 ### Textbausteine
 
 Für geförderte bauliche Maßnahmen (z.B. Parklet, Bank, Hochbeet) werden die folgenden Textbausteine empfohlen:
 
-*   **Allgemein:** "Diese Maßnahme zur [kurze Beschreibung der Maßnahme] wurde über das Budget des Stadtbezirksbeirates [Name des Stadtbezirks] finanziert."
+*   **Allgemein:** "Gefördert durch Mittel aus dem Stadtbezirksbudget [Name des Stadtbezirksbeirates z.B. Mitte]."
 *   **Beispiel:** "Dieses Parklet wurde über das Budget des Stadtbezirksbeirates Mitte finanziert."
-
-### Dateiformate
-
-Die Logos liegen in verschiedenen Dateiformaten vor, um eine breite Anwendung zu ermöglichen:
-
-*   **PNG (.png):** Ideal für den Einsatz im Web (Webseiten, Social Media) und in digitalen Dokumenten (Präsentationen, Textverarbeitung). Bietet einen transparenten Hintergrund.
-*   **JPEG (.jpeg):** Geeignet für die Verwendung in digitalen Dokumenten und im Web, wenn keine Transparenz benötigt wird.
-*   **SVG (.svg):** Eine Vektorgrafik, die ohne Qualitätsverlust beliebig skaliert werden kann. Optimal für hochauflösende Darstellungen, Druckprodukte und Webanwendungen.
-*   **EPS (.eps):** Ein Vektorformat für den professionellen Druck (Flyer, Plakate, Broschüren).
 
 ## Kontakt
 
